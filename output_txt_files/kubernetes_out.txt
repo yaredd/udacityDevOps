@@ -1,0 +1,4 @@
+deployment.apps/k8-udacity created
+NAME                          READY   STATUS              RESTARTS   AGE
+k8-udacity-56fc868c89-bxmxn   0/1     ContainerCreating   0          0s
+service/k8-udacity exposed
