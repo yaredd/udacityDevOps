@@ -11,6 +11,8 @@ dockerpath=yaredd/udacity:latest
 # Step 2:
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
+# tag local docker image to upload to github
+docker tag udacity-cloud-devops-project:latest yaredd/udacity:latest
 
 # Step 3:
 # Push image to a docker repository
