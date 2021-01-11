@@ -1,4 +1,4 @@
-[![<yaredd>](https://circleci.com/<gh>/<yaredd>/<udacityDevOps>.svg?style=svg)](https://app.circleci.com/pipelines/github/yaredd/udacityDevOps)
+[![yaredd](https://circleci.com/gh/yaredd/udacityDevOps.svg?style=svg)](https://app.circleci.com/pipelines/github/yaredd/udacityDevOps)
 
 ## Project Overview
 
