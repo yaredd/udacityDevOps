@@ -2,3 +2,7 @@ deployment.apps/k8-udacity created
 NAME                          READY   STATUS              RESTARTS   AGE
 k8-udacity-56fc868c89-bxmxn   0/1     ContainerCreating   0          0s
 service/k8-udacity exposed
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
+Handling connection for 8000

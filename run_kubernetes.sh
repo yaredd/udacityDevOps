@@ -18,3 +18,4 @@ kubectl get pods
 # Step 4:
 # Forward the container port to a host
 kubectl expose deployment k8-udacity --name=k8-udacity --type=NodePort --port 8000 --target-port 80
+kubectl port-forward services/k8-udacity 8000:8000
